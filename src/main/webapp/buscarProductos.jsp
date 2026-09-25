@@ -26,7 +26,7 @@
         <form action="ProductoServlet" method="GET">
             
             <label>Palabra clave o término de búsqueda:</label>
-            <input type="text" name="criterioBusqueda" placeholder="Ej: Biblia, Capacitación, Guía" required>
+            <input type="text" name="palabraClave" placeholder="Ej: Biblia, Capacitación, Guía" required>
 
             <label>Filtrar por Categoría Institucional:</label>
             <select name="categoria">
