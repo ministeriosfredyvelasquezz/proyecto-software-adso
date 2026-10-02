@@ -1,3 +1,13 @@
+/* 
+   EVIDENCIA: GA7-220501096-AA5-EV01
+   DISEÑO Y DESARROLLO DE SERVICIOS WEB - CASO
+   APRENDIZ: JOHN VELÁSQUEZ
+   TECNOLOGÍA: JAVA / SERVLETS (BACK-END)
+   DESCRIPCIÓN: Servicio web (API) encargado de gestionar el registro e inicio de sesión.
+   Recibe usuario y contraseña, validando la autenticación satisfactoria o devolviendo error.
+*/
+
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
